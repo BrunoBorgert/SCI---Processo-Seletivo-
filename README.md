@@ -17,3 +17,8 @@ Ao final da solicitação do nome e das notas deverá ser impresso o nome do alu
 Python04- Criar um vetor de cinco posições, solicitar  cinco números e ao fim, imprimir o valor apresentado na posição três.
 
 Python5 - Crie uma matriz bidimensional. Deverá ser solicitado três nomes de alunos e quatro notas, após solicitação dos nomes e das notas deverá ser impresso os nomes acompanhados da média geral de cada aluno, deverá ser impresso também o nome do aluno que obteve a maior média e o nome do aluno que obteve a menor média.
+
+
+----------------------
+
+Não encontrei grandes dificuldades ao realizar as perguntas que me foram repassadas. Para auxiliar na programação, tenho uma galeria de consultas para quando estou em dúvida em qual código utilizar. Dediquei-me ao máximo e ficaria imensamente grato pela oportunidade de ingressar como estagiário na conceituada empresa SCI.
